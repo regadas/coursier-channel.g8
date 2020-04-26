@@ -1,6 +1,9 @@
 # coursier-channel.g8
 
+:warning: Moved to [coursier/coursier-channel.g8](http://github.com/coursier/coursier-channel.g8) :warning:
+
 Ready to deploy coursier channel template
+
 
 ## Usage
 
